@@ -17,7 +17,7 @@ public class SpringBootDemoDTO {
 	}
 	@Override
 	public String toString() {
-		return "SpringBootDemoDTO [attr1=" + attr1 + ", attr2=" + attr2 + "]";
+		return "SpringBootDemoDTO [attr1=" + attr1 + ", attr2=" + attr2 + "] New branch";
 	}
 	public SpringBootDemoDTO(String attr1, String attr2) {
 		super();
